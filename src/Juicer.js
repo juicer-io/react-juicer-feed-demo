@@ -17,10 +17,6 @@ class Juicer extends Component {
     document.body.appendChild(link);
   }
 
-  // shouldComponentUpdate () {
-  //   return false;
-  // }
-
   render() {
     return (
       <ul className="juicer-feed" data-feed-id={this.props.feedId} style={{ height: 500, width: 500}}></ul>
