@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "react-juicer-feed Demo",
+  "name": "react-juicer-feed Demo",
   "icons": [
     {
       "src": "favicon.ico",
