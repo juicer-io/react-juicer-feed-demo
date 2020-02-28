@@ -8435,10 +8435,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
   integrity sha512-GFMtL0vHkiBv9HluwNZTggSn/sCyEt9n02aM0dSAjGGyqyNlAyftYm4phPxdvCigG15JreC5biwxCgTAJZ7yAA==
 
-react-juicer-feed@^0.0.2-alpha-2:
-  version "0.0.2-alpha-2"
-  resolved "https://registry.yarnpkg.com/react-juicer-feed/-/react-juicer-feed-0.0.2-alpha-2.tgz#20a6bd10d944fe45583aa5d77c6e1d25dd75082f"
-  integrity sha512-Bup8deX9oZiyEeEgClPMvuzi1q8KVTUl83cxEGVMcjtlOAc1EQNssVVF2xakNYUNRUGa46TzWC86kdxATcelPA==
+react-juicer-feed@^0.0.2-alpha-4:
+  version "0.0.2-alpha-4"
+  resolved "https://registry.yarnpkg.com/react-juicer-feed/-/react-juicer-feed-0.0.2-alpha-4.tgz#e6841ba52a77d00f3ea0c2f094d4cc1c4099f1b9"
+  integrity sha512-KPfg50mjPtNNfALi0g12Xy6aPwGOx6XKalsgbJ8zHRNLiPcr4Pqc7Cy70s3wMKrsC8l8scGO6u5TpATeOAVdIg==
   dependencies:
     react "^16.7.0"
     react-dom "^16.7.0"
