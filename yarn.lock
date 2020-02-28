@@ -8415,7 +8415,7 @@ react-dev-utils@^10.2.0:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-dom@^16.13.0:
+react-dom@^16.7.0:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.13.0.tgz#cdde54b48eb9e8a0ca1b3dc9943d9bb409b81866"
   integrity sha512-y09d2c4cG220DzdlFkPTnVvGTszVvNpC73v+AaLGLHbkpy3SSgvYq8x0rNwPJ/Rk/CicTNgk0hbHNw1gMEZAXg==
@@ -8435,10 +8435,13 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
   integrity sha512-GFMtL0vHkiBv9HluwNZTggSn/sCyEt9n02aM0dSAjGGyqyNlAyftYm4phPxdvCigG15JreC5biwxCgTAJZ7yAA==
 
-react-juicer-feed@^0.0.2-alpha:
-  version "0.0.2-alpha"
-  resolved "https://registry.yarnpkg.com/react-juicer-feed/-/react-juicer-feed-0.0.2-alpha.tgz#19e9fa4b09f20729ce50295b0e7ea0b381d2f33d"
-  integrity sha512-7OahNvxeKlnbsSSrKeM+eZvaXvUUY+I9EouMO6t2sXLqpVpdtYC0qiJjL0C++8xZPQO5k9YRl7RA3ug08+cAsA==
+react-juicer-feed@^0.0.2-alpha-2:
+  version "0.0.2-alpha-2"
+  resolved "https://registry.yarnpkg.com/react-juicer-feed/-/react-juicer-feed-0.0.2-alpha-2.tgz#20a6bd10d944fe45583aa5d77c6e1d25dd75082f"
+  integrity sha512-Bup8deX9oZiyEeEgClPMvuzi1q8KVTUl83cxEGVMcjtlOAc1EQNssVVF2xakNYUNRUGa46TzWC86kdxATcelPA==
+  dependencies:
+    react "^16.7.0"
+    react-dom "^16.7.0"
 
 react-scripts@^3.4.0:
   version "3.4.0"
@@ -8500,7 +8503,7 @@ react-scripts@^3.4.0:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.13.0:
+react@^16.7.0:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.0.tgz#d046eabcdf64e457bbeed1e792e235e1b9934cf7"
   integrity sha512-TSavZz2iSLkq5/oiE7gnFzmURKZMltmi193rm5HEoUDAXpzT9Kzw6oNZnGoai/4+fUnm7FqS5dwgUL34TujcWQ==

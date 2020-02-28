@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-juicer-feed": "^0.0.2-alpha",
+    "react-juicer-feed": "^0.0.2-alpha-2",
     "react-scripts": "^3.4.0"
   },
   "scripts": {
