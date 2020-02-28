@@ -6,4 +6,5 @@
 ## Setup
 + `$ yarn install`
 + `$ yarn start`
-+ your web browser should open automatically at [http://localhost:3000](http://localhost:3000)
++ your web browser should open automatically at [http://localhost:3000](http://localhost:3000) and show something like this:
+  ![screenshot of react-juicer-feed Demo running on localhost:3000](./react-juicer-feed-demo.png)
